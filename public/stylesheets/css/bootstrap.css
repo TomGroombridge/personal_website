@@ -23,6 +23,13 @@ summary {
   display: block;
 }
 
+
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
 audio,
 canvas,
 video {
@@ -345,7 +352,7 @@ img {
 .img-responsive {
   display: block;
   height: auto;
-  max-width: 100%;
+  width: auto;
 }
 
 .img-rounded {
@@ -5234,7 +5241,7 @@ a.list-group-item.active > .badge,
   font-weight: 200;
   line-height: 2.1428571435;
   color: inherit;
-  background-color: #eeeeee;
+  background-color: ;
 }
 
 .jumbotron h1 {
